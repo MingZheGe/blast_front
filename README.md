@@ -1,6 +1,5 @@
 # 改动的文件信息
-修改的文件：
-# @/blast/components/BaseIndexTrend.vue
-@/blast/components/CircleGroupV.vue
-@/echarts/BaseLine.vue
-@/echarts/CircleGroup.vue
+# @/blast/components/文件夹下
+BaseIndexTrend.vue   CircleGroupV.vue
+# @/echarts/文件夹下
+BaseLine.vue  CircleGroup.vue
